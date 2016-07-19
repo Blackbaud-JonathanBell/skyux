@@ -46,6 +46,7 @@
  - `productId` The current product identifier used to build the URL to the product's help content.
  - `url` The URL to the Help Widget that will be included.
  - `userData` Optional. Object used to pass information about the current user to the chat session. e.g `{ emailAddress: '', firstName: '', lastName: ''}`
+ - `hideUndock` - Optional. Indicates that the undock link should be hidden in the widget so that the widget cannot be undocked from the main window.
 
  */
 
